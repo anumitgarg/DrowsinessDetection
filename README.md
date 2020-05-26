@@ -33,4 +33,4 @@ The design flow of the solution is as follows:
 4.	Comparison of live aspect ratios with the threshold for the detection of drowsiness.
 5.	Alarming the driver. Once the drowsiness is detected we need to alert the driver using a sound/ alarm.
 
-![Design Flow](flow.png)
+![Design Flow](flow.PNG)
