@@ -32,3 +32,5 @@ The design flow of the solution is as follows:
 3.	Calculation of aspect ratios (EAR and MAR). Once the features of a face are extracted we need to calculate the threshold values of eyes (sleepy) and mouth (yawn).
 4.	Comparison of live aspect ratios with the threshold for the detection of drowsiness.
 5.	Alarming the driver. Once the drowsiness is detected we need to alert the driver using a sound/ alarm.
+
+![Design Flow](flow.png)
